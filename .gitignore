@@ -1,0 +1,12 @@
+proj.android/
+proj.ios_mac/
+proj.linux/
+proj.win8.1-universal/
+proj.wp8-xaml/
+cocos2d/
+proj.win32/*.sdf
+proj.win32/*.sln
+proj.win32/*.vcxproj*
+proj.win32/*.suo
+proj.win32/Debug.win32
+proj.win32/Release.win32

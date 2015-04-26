@@ -1,0 +1,8 @@
+Debug.win32/
+Release.win32/
+*.sln
+*.sdf
+*.suo
+*.opensdf
+*.vcxproj*
+
